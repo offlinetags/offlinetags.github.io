@@ -38,9 +38,13 @@ Ein Doppelklick auf die „setup.exe“ startet den Installationvorgang. Dort ka
 * _Circle Detector_: Diese Parameter sind nur für erfahrene Benutzer empfohlen. Eine genauere Definition findest du hier: <http://tinyurl.com/6nlrpo8>
 * _Tag Detector_: Diese Parameter sind nur für erfahrene Benutzer empfohlen. Eine genauere Definition findest du hier: <http://tinyurl.com/6q48tuv> und hier: <http://tinyurl.com/7zf8sn3>
 
+## Download
+
+[Offlinetags_Software.zip](/assets/Offlinetags_Software.zip)
+
 ## Source-Code
 
-Lizenz: [GPL v.3](http://www.gnu.org/licenses/gpl-3.0.en.html); entwickelt mithilfe von [OpenCV](http://opencv.org/) und [QT](http://qt-project.org/)
+[GitHub](https://github.com/offlinetags/offlinetags-demonstrator)
 
-Downloadlink (coming soon)
+Lizenz: [GPL v.3](http://www.gnu.org/licenses/gpl-3.0.en.html); entwickelt mithilfe von [OpenCV](http://opencv.org/) und [QT](http://qt-project.org/)
 

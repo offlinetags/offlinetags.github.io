@@ -21,7 +21,7 @@
 title: Offlinetags
 email: maybe@sometimes
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the virtual home of "Offlinetags" . The project is driven by the idea to communicate consent to foto sharing not only to human beings but also to maschines. Thus, a tag sends a social signal to other people and at the same time enables maschines to read it and act acording to the wishes of the wearer.
+  This is the virtual home of "Offlinetags" . The project is driven by the idea to communicate consent to foto sharing not only to human beings but also to machines. A tag sends a social signal to other people and at the same time enables algorithms to easily read it and act acording to the wishes of the wearer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: coming soon
