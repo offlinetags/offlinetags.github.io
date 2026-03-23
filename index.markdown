@@ -16,24 +16,24 @@ Offlinetags lassen sich in vielen unterschiedlichen Kontexten wie beispielsweise
 
 ### Tag Me
 
-| ![tagMe](/assets/TagMe.png){:height="200px" width="350px"} | Sie dürfen mich fotografieren, die Bilder veröffentlichen, taggen und Gesichtserkennungsverfahren anwenden. |
+| ![tagMe](/assets/TagMe.png){:height="200px" width="200px"} | Sie dürfen mich fotografieren, die Bilder veröffentlichen, taggen und Gesichtserkennungsverfahren anwenden. |
 
 ### Upload Me
 
-| Das Hochladen und Veröffentlichen von Bildern von mir ist gestattet. Vom Taggen und dem Einsatz von Bilderkennungsverfahren bitte ich abzusehen. | ![UploadMe](/assets/UploadMe.png){:height="200px" width="480px"} |
+| Das Hochladen und Veröffentlichen von Bildern von mir ist gestattet. Vom Taggen und dem Einsatz von Bilderkennungsverfahren bitte ich abzusehen. | ![UploadMe](/assets/UploadMe.png){:height="200px" width="200px"} |
 
 ### Blur Me
 
-| ![tagMe](/assets/BlurMe.png){:height="200px" width="600px"} | Bitte schon vor dem Hochladen oder jeder Veröffentlichung eines Bildes von mir sicherstellen, dass ich nicht ohne weiteres – insbesondere nicht durch Gesichtserkennungsverfahren - erkennbar bin. |
+| ![tagMe](/assets/BlurMe.png){:height="200px" width="200px"} | Bitte schon vor dem Hochladen oder jeder Veröffentlichung eines Bildes von mir sicherstellen, dass ich nicht ohne weiteres – insbesondere nicht durch Gesichtserkennungsverfahren - erkennbar bin. |
 
 ### No Photos (please)
 
-| Bitte keine Bildaufnahmen von mir machen, selbst dann, wenn ich für den Betrachter des Bildes nicht identifizierbar zu sein scheine. | ![UploadMe](/assets/NoPhotos.png){:height="200px" width="440px"} |
+| Bitte keine Bildaufnahmen von mir machen, selbst dann, wenn ich für den Betrachter des Bildes nicht identifizierbar zu sein scheine. | ![UploadMe](/assets/NoPhotos.png){:height="200px" width="200px"} |
 
 ### Name Me
 
-| ![NameMe](/assets/NameMe.png){:height="200px" width="350px"} | Sie dürfen mich fotografieren und die Bilder veröffentlichen, sofern Sie meinen Namen, mein Rufzeichen oder meinen Spitznamen als Urheber/Abgebildeten nennen. |
+| ![NameMe](/assets/NameMe.png){:height="200px" width="200px"} | Sie dürfen mich fotografieren und die Bilder veröffentlichen, sofern Sie meinen Namen, mein Rufzeichen oder meinen Spitznamen als Urheber/Abgebildeten nennen. |
 
 ### Blur Screen
 
-| Bitte alle sichtbaren Bildschirme (Monitore, Terminals, Desktops) vor der Veröffentlichung unkenntlich machen. | ![BlurScreen](/assets/BlurScreen.png){:height="200px" width="450px"} |
+| Bitte alle sichtbaren Bildschirme (Monitore, Terminals, Desktops) vor der Veröffentlichung unkenntlich machen. | ![BlurScreen](/assets/BlurScreen.png){:height="200px" width="200px"} |
