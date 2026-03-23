@@ -8,7 +8,7 @@ layout: home
 image: /assets/logo-header.png
 ---
 
-Durch die Offlinetags wollen wir zur Diskussion über die unbeschränkte Verbreitung von Fotos im Internet beitragen. Offlinetags sind eine Möglichkeit um deutlich zu kommunizieren, wie Fotos von euch digital weiterverarbeitet werden dürfen. Dafür haben wir vier Symbole entwickelt mit denen ihr anzeigen könnt ob Bilder von euch lieber nicht ins Internet gestellt werden sollen oder ob ihr euch sogar wünscht, dass dem Bild zusätzliche Informationen wie euer Name beigefügt werden.
+Durch die Offlinetags wollen wir zur Diskussion über die unbeschränkte Verbreitung von Fotos im Internet beitragen. Offlinetags sind eine Möglichkeit um deutlich zu kommunizieren, wie Fotos von euch digital weiterverarbeitet werden dürfen. Dafür haben wir sechs Symbole entwickelt mit denen ihr anzeigen könnt ob Bilder von euch lieber nicht ins Internet gestellt werden sollen oder ob ihr euch sogar wünscht, dass dem Bild zusätzliche Informationen wie euer Name beigefügt werden.
 
 Die grundlegenden Ideen und Theorien wurden von uns auf der [Conference on Human Factors in Computing Systems](https://chi2014.acm.org) 2014 in Toronto sowohl als [Poster](/assets/CHI-Poster-OfflineTags-A0.pdf) als auch in einem kurzen [Artikel](/assets/Pallas_et_al-2014-Offlinetags_-_A_Novel_Privacy_Approach_to_Online_Photo_Sharing.pdf) vorgestellt.
 
@@ -29,3 +29,11 @@ Offlinetags lassen sich in vielen unterschiedlichen Kontexten wie beispielsweise
 ### No Photos (please)
 
 | Bitte keine Bildaufnahmen von mir machen, selbst dann, wenn ich für den Betrachter des Bildes nicht identifizierbar zu sein scheine. | ![UploadMe](/assets/NoPhotos.png){:height="200px" width="440px"} |
+
+### Name Me
+
+| ![NameMe](/assets/NameMe.png){:height="200px" width="350px"} | Sie dürfen mich fotografieren und die Bilder veröffentlichen, sofern Sie meinen Namen, mein Rufzeichen oder meinen Spitznamen als Urheber/Abgebildeten nennen. |
+
+### Blur Screen
+
+| Bitte alle sichtbaren Bildschirme (Monitore, Terminals, Desktops) vor der Veröffentlichung unkenntlich machen. | ![BlurScreen](/assets/BlurScreen.png){:height="200px" width="450px"} |
