@@ -20,7 +20,7 @@ Offlinetags lassen sich in vielen unterschiedlichen Kontexten wie beispielsweise
 
 ### Upload Me
 
-| Das Hochladen und Veröffentlichen von Bildern von mir ist gestattet. Vom Taggen und dem Einsatz von Bilderkennungsverfahren bitte ich abzusehen. | ![UploadMe](/assets/UploadMe.png){:height="200px" width="480px"} |
+| Das Hochladen und Veröffentlichen von Bildern von mir ist gestattet. Vom Taggen und dem Einsatz von Bilderkennungsverfahren bitte ich abzusehen. | ![UploadMe](/assets/UploadMe.png)|
 
 ### Blur Me
 
