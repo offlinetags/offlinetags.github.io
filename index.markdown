@@ -10,9 +10,17 @@ image: /assets/logo-header.png
 
 Durch die Offlinetags wollen wir zur Diskussion über die unbeschränkte Verbreitung von Fotos im Internet beitragen. Offlinetags sind eine Möglichkeit, um deutlich zu kommunizieren, wie Fotos von Euch digital weiterverarbeitet werden dürfen. Dafür haben wir vier Symbole entwickelt, mit denen Ihr anzeigen könnt ob Bilder von euch lieber nicht ins Internet gestellt werden sollen oder ob Ihr Euch sogar wünscht, dass dem Bild zusätzliche Informationen wie Euer Name beigefügt werden.
 
-Die grundlegenden Ideen und Theorien wurden von uns auf der [Conference on Human Factors in Computing Systems](https://chi2014.acm.org) 2014 in Toronto sowohl als [Poster](/assets/CHI-Poster-OfflineTags-A0.pdf) als auch in einem kurzen [Artikel](/assets/Pallas_et_al-2014-Offlinetags_-_A_Novel_Privacy_Approach_to_Online_Photo_Sharing.pdf) vorgestellt.
+Die grundlegenden Ideen und Theorien wurden von uns auf der [Conference on Human Factors in Computing Systems](https://chi2014.acm.org) 2014 in Toronto sowohl als [Poster](/assets/CHI-Poster-OfflineTags-A0.pdf) als auch in einem kurzen [Artikel](/assets/Pallas_et_al-2014-Offlinetags_-_A_Novel_Privacy_Approach_to_Online_Photo_Sharing.pdf) vorgestellt.Anwendung gefunden haben die Offlinetags unter anderem bei folgenden Veranstaltungen:
 
-Offlinetags lassen sich in vielen unterschiedlichen Kontexten wie beispielsweise auf Konferenzen oder Demonstrationen verwenden. Und die von uns entwickelte, prototypische Open Source [Software](/prototype) zeigt, dass diese Symbole auch maschinenlesbar sind.
+* Re:Publica 2012, Berlin
+* Computers, Privacy, and Data Protection (CPDP) 2014, Brüssel
+* Computers, Privacy, and Data Protection (CPDP) 2015, Brüssel
+* Computers, Privacy, and Data Protection (CPDP) 2018, Brüssel
+* Jahrestagung Forum Privatheit 2018, Berlin
+* Chemnitzer Linux Tage 2026, Berlin
+* ...?
+
+Offlinetags lassen sich in vielen unterschiedlichen Kontexten wie beispielsweise auf Konferenzen oder Demonstrationen verwenden. Und die von uns entwickelte, prototypische Open Source [Software](/prototype) zeigt, dass diese Symbole auch maschinenlesbar sind. 
 
 ### Die Tags
 
