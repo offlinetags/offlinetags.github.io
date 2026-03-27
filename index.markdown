@@ -28,4 +28,4 @@ Offlinetags lassen sich in vielen unterschiedlichen Kontexten wie beispielsweise
 
 ### No Photos (please)
 
-| Bitte keine Bildaufnahmen von mir machen, selbst dann, wenn ich für den Betrachter des Bildes nicht identifizierbar zu sein scheine. | ![UploadMe](/assets/NoPhotos.png){:width="60%"} |
+| Bitte keine Bildaufnahmen von mir machen, selbst dann, wenn ich für den Betrachter des Bildes nicht identifizierbar zu sein scheine. | ![UploadMe](/assets/NoPhotos.png){:width="200px"} :|
