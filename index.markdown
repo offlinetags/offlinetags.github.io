@@ -26,8 +26,12 @@ Offlinetags lassen sich in vielen unterschiedlichen Kontexten wie beispielsweise
 
 ### Blur Me
 
+| ![blurMe](/assets/BlurMe.png){:width="200px"} | Bitte schon vor dem Hochladen oder jeder Veröffentlichung eines Bildes von mir sicherstellen, dass ich nicht ohne weiteres – insbesondere nicht durch Gesichtserkennungsverfahren - erkennbar bin. |
+
 | ![tagMe](/assets/BlurMe.png){:width="200px"} | Bitte schon vor dem Hochladen oder jeder Veröffentlichung eines Bildes von mir sicherstellen, dass ich nicht ohne weiteres – insbesondere nicht durch Gesichtserkennungsverfahren - erkennbar bin. |
 
 ### No Photos (please)
+
+| ![noPhotos](/assets/NoPhotos.png){:width="200px"} | Bitte keine Bildaufnahmen von mir machen, selbst dann, wenn ich für den Betrachter des Bildes nicht identifizierbar zu sein scheine. |
 
 | Bitte keine Bildaufnahmen von mir machen, selbst dann, wenn ich für den Betrachter des Bildes nicht identifizierbar zu sein scheine. | ![UploadMe](/assets/NoPhotos.png){:width="200px"} :|
