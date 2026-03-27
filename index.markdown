@@ -17,6 +17,9 @@ Offlinetags lassen sich in vielen unterschiedlichen Kontexten wie beispielsweise
 ### Tag Me
 
 | ![tagMe](/assets/TagMe.png){:width="200px"} | Sie dürfen mich fotografieren, die Bilder veröffentlichen, taggen und Gesichtserkennungsverfahren anwenden. |
+| ![uploadMe](/assets/UploadMe.png){:width="200px"} | Das Hochladen und Veröffentlichen von Bildern von mir ist gestattet. Vom Taggen und dem Einsatz von Bilderkennungsverfahren bitte ich abzusehen. |
+| ![blurMe](/assets/BlurMe.png){:width="200px"} | Bitte schon vor dem Hochladen oder jeder Veröffentlichung eines Bildes von mir sicherstellen, dass ich nicht ohne weiteres – insbesondere nicht durch Gesichtserkennungsverfahren - erkennbar bin. |
+| ![noPhotos](/assets/NoPhotos.png){:width="200px"} | Bitte keine Bildaufnahmen von mir machen, selbst dann, wenn ich für den Betrachter des Bildes nicht identifizierbar zu sein scheine. |
 
 ### Upload Me
 
