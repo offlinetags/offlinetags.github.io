@@ -16,7 +16,7 @@ Offlinetags lassen sich in vielen unterschiedlichen Kontexten wie beispielsweise
 
 ### Tag Me
 
-| ![tagMe](/assets/TagMe.png){:height="60%" width="60%"} | Sie dürfen mich fotografieren, die Bilder veröffentlichen, taggen und Gesichtserkennungsverfahren anwenden. |
+| ![tagMe](/assets/TagMe.png){:width="60%"} | Sie dürfen mich fotografieren, die Bilder veröffentlichen, taggen und Gesichtserkennungsverfahren anwenden. |
 
 ### Upload Me
 
