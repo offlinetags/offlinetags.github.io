@@ -19,12 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Offlinetags
-email: maybe@sometimes
+email: frank.pallas@plus.ac.at
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the virtual home of "Offlinetags" . The project is driven by the idea to communicate consent to foto sharing not only to human beings but also to machines. A tag sends a social signal to other people and at the same time enables algorithms to easily read it and act acording to the wishes of the wearer.
+  This is the virtual home of "Offlinetags" . The project is driven by the idea to communicate preferences in the context of photo sharing not only to human beings but also to machines. A tag sends a social signal to other people and at the same time enables algorithms to easily read it and act acording to the wishes of the wearer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: coming soon
 github_username:  offlinetags
 
 # Build settings
