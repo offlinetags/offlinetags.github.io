@@ -17,7 +17,7 @@ Die grundlegenden Ideen und Theorien wurden von uns auf der [Conference on Human
 * Computers, Privacy, and Data Protection (CPDP) 2015, Brüssel
 * Computers, Privacy, and Data Protection (CPDP) 2018, Brüssel
 * Jahrestagung Forum Privatheit 2018, Berlin
-* Chemnitzer Linux Tage 2026, Berlin
+* Chemnitzer Linux Tage 2026, Chemnitz
 * ...?
 
 Offlinetags lassen sich in vielen unterschiedlichen Kontexten wie beispielsweise auf Konferenzen oder Demonstrationen verwenden. Und die von uns entwickelte, prototypische Open Source [Software](/prototype) zeigt, dass diese Symbole auch maschinenlesbar sind. 
